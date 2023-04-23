@@ -6,6 +6,15 @@ Hi, **I'm Adem**━a junior software development learner. Any experience before 
 Passion and desire to success
 Help to the other
 Hard working and developing...
+
+### How I work
+
+
+### Get in touch
+
+⋅⋅* Twitter: https://www.twitter.com/ad3magar
+⋅⋅* Instagram: https://www.instagram.com/ad3magar
+⋅⋅* Personal: [Website] (https://www.ademagar.blogspot.com)
 <!--
 **ademagar/ademagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
