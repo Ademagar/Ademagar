@@ -11,9 +11,9 @@ Hard working and developing...
 ### How I work
 
 ### Get in touch
-<a href:"https://www.twitter.com/ad3magar"> <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" width="auto"></a>
-<a href:"https://www.twitter.com/ad3magar"> <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto">
-<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto">
+[![Github Badge]<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" width="auto">](https://www.twitter.com/ad3magar)
+[![Github Badge]<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto">](https://www.linkedin.com/in/ademagar/)
+[![Github Badge] <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto">](https://www.instagram.com/ad3magar)
 
 - Twitter: https://www.twitter.com/ad3magar 
 - Instagram: https://www.instagram.com/ad3magar 
