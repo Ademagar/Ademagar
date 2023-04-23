@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 Hi, I'm Adem━a junior software development learner. Any experience before on the Community but with a passion, believe and hard work experiences happen. 
+
+### My values
+Passion and desire to success
+Help to the other
+Hard working and developing...
 <!--
 **ademagar/ademagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
