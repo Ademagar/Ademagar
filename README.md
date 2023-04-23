@@ -8,7 +8,7 @@ Help to the other
 Hard working and developing...
 
 ### How I work
-
+- 🔭 I’m currently working on ...
 
 ### Get in touch
 
