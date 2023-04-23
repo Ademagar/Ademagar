@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Hi, **I'm Adem**━a junior software development learner. Any experience before on the Community but with a **passion**, **believe** and **hard work** experiences happen. 
+- **I'm Adem**━a junior software development learner.
+- Any experience before on the Community but with a **passion**, **believe** and **hard work** experiences happen. 
 
 ### My values
 Passion and desire to success
