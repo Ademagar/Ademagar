@@ -9,6 +9,8 @@
 - Hard working and developing...
 
 ### How I work
+- Things uploaded soon...
+
 
 ### Get in touch
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" width="auto">](https://www.ademagar.blogspot.com)
