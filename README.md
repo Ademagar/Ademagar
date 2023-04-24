@@ -13,7 +13,7 @@
 
 
 ### Get in touch
-[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" width="auto">](https://www.ademagar.blogspot.com)
+[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" width="auto" target="_blank">](https://www.ademagar.blogspot.com)
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" width="auto">](https://www.twitter.com/ad3magar)
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto">](https://www.linkedin.com/in/ademagar/)
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto">](https://www.instagram.com/ad3magar)
