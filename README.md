@@ -4,9 +4,9 @@
 - Any experience before on the Community but with a **passion**, **believe** and **hard work** experiences happen. 
 
 ### My values
-Passion and desire to success
-Help to the other
-Hard working and developing...
+- Passion and desire to success
+- Help to the other
+- Hard working and developing...
 
 ### How I work
 
