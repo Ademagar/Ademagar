@@ -18,7 +18,7 @@ Hard working and developing...
 
 - Twitter: https://www.twitter.com/ad3magar 
 - Instagram: https://www.instagram.com/ad3magar 
-- Personal: [Website] (https://www.ademagar.blogspot.com)
+- LinkedIn: https://www.linkedin.com/in/ademagar/
 
 ### Links
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ademagar) 
