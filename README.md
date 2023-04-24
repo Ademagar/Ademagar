@@ -16,9 +16,9 @@ Hard working and developing...
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto">](https://www.linkedin.com/in/ademagar/)
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto">](https://www.instagram.com/ad3magar)
 
-- Twitter: https://www.twitter.com/ad3magar 
-- Instagram: https://www.instagram.com/ad3magar 
+- Twitter: https://www.twitter.com/ad3magar
 - LinkedIn: https://www.linkedin.com/in/ademagar/
+- Instagram: https://www.instagram.com/ad3magar 
 
 ### Links
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ademagar) 
