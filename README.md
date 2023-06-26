@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- **I'm Adem**━a junior software development learner.
-- Any experience before on the Community but with a **passion**, **believe** and **hard work** experiences happen. 
+- **I'm Adem**━ a Jr. Full-stack Dev learner
+- On the front-end I use HTML, CSS, JS and I'm learning React. Also, I want to learn on Node.js and Python
+- Started for a while ago with **passion**, **believe** and **hard work** experiences happen.
+- I am determined to constantly **improve** my skills, learn new technologies and **stay up to date** with the latest trends.
 
 ### My values
 - Passion and desire to success
@@ -9,7 +11,7 @@
 - Hard working and developing...
 
 ### How I work
-- Things uploaded soon...
+- I'm working on front-end projects now.
 
 
 ### Get in touch
