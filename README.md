@@ -1,20 +1,17 @@
-## Hi there 👋
 
-- **I'm Adem**━ a Jr. Full-stack Dev learner
-- On the front-end I use HTML, CSS, JS and I'm learning React. Also, I want to learn on Node.js and Python
-- Started for a while ago with **passion**, **believe** and **hard work** experiences happen.
-- I am determined to constantly **improve** my skills, learn new technologies and **stay up to date** with the latest trends.
+# Hi there 👋 **I'm Adem** ━ a Jr. Full-stack Developer
 
-### My values
-- Passion and desire to success
-- Help to the other
-- Hard working and developing...
+## Who is this Jr Guy?,
+- I'm Adem. I'm an industrial engineering student in Turkey but I decided to become a **software developer** because I am **interested in software** and the world of **programming**. 
+- I know **HTML**, **CSS** and a little bit **Javascript** and I'm planning to ***learn TailwindCss***, ***React*** anf ***Node.js*** in next 3-5 months.
+- After learnşng coding I want to learn AWS Cloud Services so I can upload my project easily on cloud.
+- I started with **passion**, **faith** and **hard work** for a while ago. 
 
-### How I work
-- I'm working on front-end projects now.
+## Programming Languages and things that I know and planning to learn!
+[![Things I know.](https://skillicons.dev/icons?i=html,css,js&theme=dark)]  
+[![I want to know.](https://skillicons.dev/icons?i=tailwind,react,nodejs,postgres,aws&theme=dark)]
 
-
-### Get in touch
+## Get in touch
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" width="auto" target="_blank">](https://www.twitter.com/ad3magar)
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto" target="_blank">](https://www.linkedin.com/in/ademagar/)
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto" target="_blank">](https://www.instagram.com/ad3magar)
@@ -23,7 +20,7 @@
 - LinkedIn: https://www.linkedin.com/in/ademagar/
 - Instagram: https://www.instagram.com/ad3magar 
 
-### Links
+## Links
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ademagar) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ad3magar) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@ademagar) 
