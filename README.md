@@ -1,4 +1,4 @@
-[<img src="/image/header.png" width="auto">]
+<img src="/image/header.png" width="auto">
 # Hi there 👋 **I'm Adem** ━ a Jr. Full-stack Developer
 
 ## Who is this Jr Guy?
