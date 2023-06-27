@@ -1,4 +1,4 @@
-<img src="/image/header.png" width="auto">
+<img src="/images/header.png" width="auto">
 
 # Hi there 👋 **I'm Adem** ━ a Jr. Full-stack Developer
 
@@ -9,7 +9,8 @@
 - I started with **passion**, **faith** and **hard work** for a while ago. 
 
 ## Programming Languages and things that I know and planning to learn!
-[![Things I know.](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,postgres,aws&theme=dark)] 
+![Things I know.](https://skillicons.dev/icons?i=html,css,js&theme=dark)
+![Things I know.](https://skillicons.dev/icons?i=tailwind,react,nodejs,postgres,aws&theme=dark)
 
 ## Get in touch
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" width="auto" target="_blank">](https://www.twitter.com/ad3magar)
