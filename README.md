@@ -9,8 +9,15 @@
 - I started with **passion**, **faith** and **hard work** for a while ago. 
 
 ## Programming Languages and things that I know and planning to learn!
-![Things I know.](https://skillicons.dev/icons?i=html,css,js&theme=dark)
-![Things I know.](https://skillicons.dev/icons?i=tailwind,react,nodejs,postgres,aws&theme=dark)
+
+### Front-end Technologies
+![Things I know.](https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark)
+
+### Back-end Technologies
+![Things I know.](https://skillicons.dev/icons?i=nodejs,postgres,python&theme=dark)
+
+### Others
+![Things I know.](https://skillicons.dev/icons?i=aws&theme=dark)
 
 ## Get in touch
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" width="auto" target="_blank">](https://www.twitter.com/ad3magar)
