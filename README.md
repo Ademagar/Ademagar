@@ -16,8 +16,8 @@
 ### Back-end Technologies
 ![Things I know.](https://skillicons.dev/icons?i=nodejs,postgres,python&theme=dark)
 
-### Others
-![Things I know.](https://skillicons.dev/icons?i=aws&theme=dark)
+### Tools and Others
+![Things I know.](https://skillicons.dev/icons?i=aws,figma,git&theme=dark)
 
 ## Get in touch
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" width="auto" target="_blank">](https://www.twitter.com/ad3magar)
