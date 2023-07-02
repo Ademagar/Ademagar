@@ -2,7 +2,7 @@
 
 # Hi there 👋 **I'm Adem** ━ Full-stack Developer
 
-## Who is this Jr Guy?
+## Who is this Guy?
 - I'm Adem. I'm an industrial engineering student in Turkey but I decided to become a **software developer** because I am **interested in software** and the world of **programming**. 
 - I know **HTML**, **CSS** and a little bit **Javascript** and I'm planning to ***learn TailwindCss***, ***React*** anf ***Node.js*** in next 3-5 months.
 - After learning coding, I want to learn **AWS Cloud Services** so I can upload my project easily on cloud.
