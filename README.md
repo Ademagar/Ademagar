@@ -1,4 +1,4 @@
-<img src="/images/header.png" width="auto">
+<img src="/images/header-git.png" width="auto">
 
 # Hi there 👋 **I'm Adem** ━ Full-stack Developer
 
