@@ -13,7 +13,7 @@
 ### Front-end Technologies
 ![Things I know.](https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark)
 
-### Back-end Technologies (I'm still learning)
+### Back-end Technologies
 ![Things I know.](https://skillicons.dev/icons?i=nodejs,mongodb,python,expressjs&theme=dark)
 
 ### Tools and Others
