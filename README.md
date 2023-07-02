@@ -1,6 +1,6 @@
 <img src="/images/header.png" width="auto">
 
-# Hi there 👋 **I'm Adem** ━ a Jr. Full-stack Developer
+# Hi there 👋 **I'm Adem** ━ Full-stack Developer
 
 ## Who is this Jr Guy?
 - I'm Adem. I'm an industrial engineering student in Turkey but I decided to become a **software developer** because I am **interested in software** and the world of **programming**. 
