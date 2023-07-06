@@ -10,10 +10,10 @@
 
 ## Programming Languages and things that I know and planning to learn!
 
-### Front-end Technologies
+### Front-end
 ![Things I know.](https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark)
 
-### Back-end Technologies
+### Back-end
 ![Things I know.](https://skillicons.dev/icons?i=nodejs,mongodb,python,expressjs&theme=dark)
 
 ### Tools and Others
