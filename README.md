@@ -26,7 +26,8 @@
 
 - Twitter: https://www.twitter.com/ad3magar
 - LinkedIn: https://www.linkedin.com/in/ademagar/
-- Instagram: https://www.instagram.com/ad3magar 
+- Instagram: https://www.instagram.com/ad3magar
+- Website: https://www.ademagar.github.io
 
 ## Contact with me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ademagar) 
