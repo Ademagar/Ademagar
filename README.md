@@ -24,9 +24,9 @@
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto" target="_blank">](https://www.linkedin.com/in/ademagar/)
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto" target="_blank">](https://www.instagram.com/ad3magar)
 
-- Twitter: https://www.twitter.com/ad3magar
-- LinkedIn: https://www.linkedin.com/in/ademagar/
-- Instagram: https://www.instagram.com/ad3magar
+- Twitter: https://twitter.com/ad3magar
+- LinkedIn: https://linkedin.com/in/ademagar/
+- Instagram: https://instagram.com/ad3magar
 - Website: https://ademagar.github.io
 
 ## Contact with me
